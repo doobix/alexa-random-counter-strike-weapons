@@ -1,0 +1,43 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "random counter strike weapons",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetRandomCounterStrikeWeapon",
+                    "slots": [],
+                    "samples": [
+                        "launch random counter strike weapons",
+                        "open random counter strike weapons",
+                        "get random counter strike weapons"
+                    ]
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
